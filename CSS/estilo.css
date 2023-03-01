@@ -1,5 +1,5 @@
 body {
-  background: #f4f2ec url(/imagens/fundo.png) repeat-x;
+  background: #f4f2ec url(../imagens/fundo.png) repeat-x;
   font: 12px "Lucida Grande", "Lucida Sans Unicode", Arial, sans-serif;
 }
 
@@ -26,7 +26,7 @@ a:hover {
   height: 21px;
   text-indent: -9999px;
   display: block;
-  background: url(/imagens/logo.png) no-repeat;
+  background: url(../imagens/logo.png) no-repeat;
 }
 
 header {
@@ -77,7 +77,7 @@ section#visita {
 
 section#galeria a {
   display: block;
-  background: url(/imagens/fundo-foto.png) no-repeat;
+  background: url(../imagens/fundo-foto.png) no-repeat;
   float: left;
   padding: 17px 15px 17px 15px;
   margin: 10px 0 0 20px;
@@ -168,7 +168,7 @@ footer {
   clear: both;
   padding: 20px 0 30px 0;
   text-align: center;
-  background: url(/imagens/fundo-rodape.png) no-repeat center top;
+  background: url(../imagens/fundo-rodape.png) no-repeat center top;
   margin-top: 20px;
 }
 
